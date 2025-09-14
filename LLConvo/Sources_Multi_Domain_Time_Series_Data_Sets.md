@@ -24,12 +24,16 @@ These datasets are very common benchmarks for models like PatchTST and TimesNet.
   * **Electricity Transformer Temperature (ETT) Dataset:** This is arguably the most standard benchmark for recent forecasting models. It contains data from electricity transformers in China, including oil temperature and load.
       * **Features:** Multivariate (7 variables). Data is available at 15-minute and 1-hour intervals.
       * **Where to find it:** It's part of the Autoformer repository. You can download it directly from [**this link**](https://www.google.com/search?q=https://github.com/thuml/Autoformer%23data). (Look for ETTh1, ETTh2, ETTm1, ETTm2).
+
   * **Electricity Consuming Load (ECL):** Contains the electricity consumption of 321 clients.
       * **Features:** Highly multivariate (321 variables).
       * **Where to find it:** Also available in the [**Autoformer repository**](https://www.google.com/search?q=https://github.com/thuml/Autoformer%23data).
+
   * **Weather Dataset:** Records 21 weather indicators from the Max Planck Institute.
       * **Features:** Multivariate (21 variables), recorded every 10 minutes.
       * **Where to find it:** Also available in the [**Autoformer repository**](https://www.google.com/search?q=https://github.com/thuml/Autoformer%23data).
+
+
 
 #### **Finance**
 
@@ -42,6 +46,7 @@ These datasets are very common benchmarks for models like PatchTST and TimesNet.
   * **MIMIC-III Waveform Database:** This is a very large and complex dataset containing physiological signals and vital signs from intensive care unit (ICU) patients. It's more challenging to work with but represents a real-world, high-stakes domain.
       * **Features:** Extremely high-resolution, multivariate time-series data (ECG, blood pressure, etc.).
       * **Where to find it:** Access requires registration and completion of a data use agreement due to patient privacy. [**PhysioNet Website**](https://physionet.org/content/mimic3wdb/1.0/).
+
   * **Daily Climate and Patient Visits:** A simpler dataset that links daily climate data to the number of patient visits for respiratory diseases in a hospital.
       * **Features:** Multivariate, daily frequency.
       * **Where to find it:** Available on [**Kaggle**](https://www.google.com/search?q=https://www.kaggle.com/datasets/damirpi/daily-climate-and-patient-visits-in-a-hospital).
