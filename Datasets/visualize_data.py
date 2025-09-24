@@ -1,7 +1,5 @@
 # 1. Import the necessary libraries
 import pandas as pd
-import plotly.express as px
-import os
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
