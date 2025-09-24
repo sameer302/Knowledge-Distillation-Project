@@ -1,0 +1,12 @@
+1) Activating virtual environment in windows cmd.exe
+deep\Scripts\activate
+# deep is the name given to venv
+
+2) Activating virtual environment in windows Powershell
+deep\Scripts\Activate.ps1
+# deep is the name given to venv
+
+3) Activating For Git Bash / WSL / macOS / Linux
+source deep/bin/activate
+# deep is the name given to venv
+
